@@ -1,0 +1,59 @@
+{
+  "students": [
+    {
+      "first_name": "JAYASMITA",
+      "last_name": "SAHU",
+      "email": "jayasmitasahu@gmail.com",
+      "gender": true,
+      "age": "21",
+      "tenth_score": "123",
+      "twelth_score": "554",
+      "preferred_branch": "science",
+      "id": 2
+    },
+    {
+      "first_name": "ANIL KUMAR",
+      "last_name": "SAHU",
+      "email": "anil@gmail.com",
+      "gender": true,
+      "age": "45",
+      "tenth_score": "242",
+      "twelth_score": "438",
+      "preferred_branch": "commerce",
+      "id": 3
+    },
+    {
+      "first_name": "JAYASMITA",
+      "last_name": "SAHU",
+      "email": "jayasmitasahu@gmail.com",
+      "gender": true,
+      "age": "23",
+      "tenth_score": "344",
+      "twelth_score": "123",
+      "preferred_branch": "science",
+      "id": 4
+    },
+    {
+      "first_name": "sagar",
+      "last_name": "parida",
+      "email": "jayasmitasahu@gmail.com",
+      "gender": true,
+      "age": "21",
+      "tenth_score": "244",
+      "twelth_score": "1220",
+      "preferred_branch": "arts",
+      "id": 5
+    },
+    {
+      "first_name": "debasish ",
+      "last_name": "parhi",
+      "email": "debasish@gmail",
+      "gender": true,
+      "age": "23",
+      "tenth_score": "345",
+      "twelth_score": "234",
+      "preferred_branch": "science",
+      "id": 6
+    }
+  ]
+}
