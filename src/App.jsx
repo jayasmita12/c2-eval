@@ -8,11 +8,7 @@ function App() {
   useEffect(()=>{
     getdata()
   },[])
-  // const getdata=async()=>{
-  //   let data = await fetch(" http://localhost:8080/students").then((res)=>{
-  //       setTable(res.data);
-  //   })
-  // }
+  
 const getdata=()=>{
 
   axios.get("http://localhost:8080/students").then((res)=>{
